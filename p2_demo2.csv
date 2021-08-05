@@ -1,0 +1,101 @@
+City,CountyName,Metro,RegionID,RegionName,RegionType,SizeRank,State,date,value,val2,val3,parse_date,Year,Month,day
+New York,New York County,New York-Newark-Jersey City,61639,10025,Zip,0,NY,2015-01-31,909313.0,192589,5676020,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84654,60657,Zip,1,IL,2015-01-31,458732.0,206194,3433027,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61637,10023,Zip,2,NY,2015-01-31,970434.0,20817,4089579,2015-01-31,2015,Jan,31
+Katy,Harris County,Houston-The Woodlands-Sugar Land,91982,77494,Zip,3,TX,2015-01-31,333917.0,77677,5700023,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84616,60614,Zip,4,IL,2015-01-31,592370.0,103406,4450135,2015-01-31,2015,Jan,31
+Katy,Harris County,Houston-The Woodlands-Sugar Land,91940,77449,Zip,5,TX,2015-01-31,150556.0,137779,4472158,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61616,10002,Zip,6,NY,2015-01-31,1030022.0,10178,3179120,2015-01-31,2015,Jan,31
+Houston,Harris County,Houston-The Woodlands-Sugar Land,91733,77084,Zip,7,TX,2015-01-31,150085.0,183892,897113,2015-01-31,2015,Jan,31
+El Paso,El Paso County,El Paso,93144,79936,Zip,8,TX,2015-01-31,118761.0,122222,4231276,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84640,60640,Zip,9,IL,2015-01-31,274731.0,33107,4892975,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62037,11226,Zip,10,NY,2015-01-31,466314.0,172765,755086,2015-01-31,2015,Jan,31
+New York,Bronx County,New York-Newark-Jersey City,61807,10467,Zip,11,NY,2015-01-31,125565.0,36482,997330,2015-01-31,2015,Jan,31
+Pflugerville,Travis County,Austin-Round Rock,92593,78660,Zip,12,TX,2015-01-31,214307.0,168618,4585111,2015-01-31,2015,Jan,31
+San Francisco,San Francisco County,San Francisco-Oakland-Hayward,97564,94109,Zip,13,CA,2015-01-31,1027059.0,183629,3896950,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61630,10016,Zip,15,NY,2015-01-31,764961.0,233399,5689726,2015-01-31,2015,Jan,31
+Nashville,Davidson County,Nashville-Davidson--Murfreesboro--Franklin,74101,37013,Zip,16,TN,2015-01-31,151652.0,175681,4232385,2015-01-31,2015,Jan,31
+The Villages,Sumter County,The Villages,71831,32162,Zip,17,FL,2015-01-31,251452.0,228419,3964771,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84646,60647,Zip,18,IL,2015-01-31,409222.0,183490,2837701,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62012,11201,Zip,19,NY,2015-01-31,909811.0,192008,2324815,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62045,11235,Zip,20,NY,2015-01-31,313161.0,245736,216416,2015-01-31,2015,Jan,31
+New York,Queens County,New York-Newark-Jersey City,62087,11375,Zip,21,NY,2015-01-31,334240.0,136417,2008028,2015-01-31,2015,Jan,31
+Hawthorne,Los Angeles County,Los Angeles-Long Beach-Anaheim,96107,90250,Zip,22,CA,2015-01-31,482818.0,95904,5079311,2015-01-31,2015,Jan,31
+New Braunfels,Comal County,San Antonio-New Braunfels,92271,78130,Zip,23,TX,2015-01-31,195041.0,142213,670196,2015-01-31,2015,Jan,31
+Nashville,Davidson County,Nashville-Davidson--Murfreesboro--Franklin,74242,37211,Zip,24,TN,2015-01-31,180451.0,78334,550977,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61643,10029,Zip,25,NY,2015-01-31,933159.0,195432,1589899,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61623,10009,Zip,26,NY,2015-01-31,824167.0,162353,1163200,2015-01-31,2015,Jan,31
+League City,Galveston County,Houston-The Woodlands-Sugar Land,92036,77573,Zip,27,TX,2015-01-31,223346.0,214059,2577469,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84620,60618,Zip,28,IL,2015-01-31,434464.0,116256,192597,2015-01-31,2015,Jan,31
+Pearland,Brazoria County,Houston-The Woodlands-Sugar Land,92045,77584,Zip,29,TX,2015-01-31,230960.0,150146,3255880,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61625,10011,Zip,30,NY,2015-01-31,1177135.0,118527,4083876,2015-01-31,2015,Jan,31
+Washington,District of Columbia,Washington-Arlington-Alexandria,66126,20002,Zip,31,DC,2015-01-31,573661.0,216067,4878464,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61703,10128,Zip,32,NY,2015-01-31,943304.0,150603,1339101,2015-01-31,2015,Jan,31
+Charlotte,Mecklenburg County,Charlotte-Concord-Gastonia,69816,28269,Zip,33,NC,2015-01-31,157401.0,172503,4286591,2015-01-31,2015,Jan,31
+Cedar Park,Williamson County,Austin-Round Rock,92551,78613,Zip,34,TX,2015-01-31,266511.0,215549,1705727,2015-01-31,2015,Jan,31
+Cypress,Harris County,Houston-The Woodlands-Sugar Land,91926,77433,Zip,35,TX,2015-01-31,256695.0,240599,4461407,2015-01-31,2015,Jan,31
+Mission,Hidalgo County,McAllen-Edinburg-Mission,92515,78572,Zip,36,TX,2015-01-31,99148.0,135879,256484,2015-01-31,2015,Jan,31
+Riverdale,Clayton County,Atlanta-Sandy Springs-Roswell,71067,30349,Zip,37,GA,2015-01-31,102428.0,79634,4079811,2015-01-31,2015,Jan,31
+El Paso,El Paso County,El Paso,93123,79912,Zip,38,TX,2015-01-31,173856.0,244224,3752562,2015-01-31,2015,Jan,31
+Grand Prairie,Dallas County,Dallas-Fort Worth-Arlington,90654,75052,Zip,39,TX,2015-01-31,148449.0,131707,677043,2015-01-31,2015,Jan,31
+Pittsburg,Contra Costa County,San Francisco-Oakland-Hayward,97771,94565,Zip,40,CA,2015-01-31,481348.0,140339,388353,2015-01-31,2015,Jan,31
+Clarksville,Montgomery County,Clarksville,74126,37042,Zip,41,TN,2015-01-31,137336.0,227750,1044712,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62017,11206,Zip,42,NY,2015-01-31,570098.0,11306,1072353,2015-01-31,2015,Jan,31
+Yukon,Canadian County,Oklahoma City,89925,73099,Zip,43,OK,2015-01-31,161637.0,249568,5788981,2015-01-31,2015,Jan,31
+Los Angeles,Los Angeles County,Los Angeles-Long Beach-Anaheim,96027,90046,Zip,44,CA,2015-01-31,1156594.0,194368,4556446,2015-01-31,2015,Jan,31
+Washington,District of Columbia,Washington-Arlington-Alexandria,66133,20009,Zip,45,DC,2015-01-31,567608.0,114256,2723348,2015-01-31,2015,Jan,31
+Cypress,Harris County,Houston-The Woodlands-Sugar Land,91922,77429,Zip,46,TX,2015-01-31,230126.0,216038,4407210,2015-01-31,2015,Jan,31
+San Antonio,Bexar County,San Antonio-New Braunfels,92341,78245,Zip,47,TX,2015-01-31,148237.0,242209,3878664,2015-01-31,2015,Jan,31
+Sugar Land,Fort Bend County,Houston-The Woodlands-Sugar Land,91968,77479,Zip,48,TX,2015-01-31,372718.0,73860,1920688,2015-01-31,2015,Jan,31
+New York,Bronx County,New York-Newark-Jersey City,61802,10462,Zip,49,NY,2015-01-31,115911.0,120451,3001952,2015-01-31,2015,Jan,31
+New York,Bronx County,New York-Newark-Jersey City,61796,10456,Zip,50,NY,2015-01-31,195691.0,66176,5112602,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84615,60613,Zip,51,IL,2015-01-31,311644.0,240285,2189074,2015-01-31,2015,Jan,31
+Lawrenceville,Gwinnett County,Atlanta-Sandy Springs-Roswell,70829,30044,Zip,52,GA,2015-01-31,148669.0,30966,4010292,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61633,10019,Zip,53,NY,2015-01-31,1093145.0,162455,234987,2015-01-31,2015,Jan,31
+Saint Peters,Saint Charles County,St. Louis,86026,63376,Zip,54,MO,2015-01-31,168698.0,73182,5633892,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61617,10003,Zip,55,NY,2015-01-31,976235.0,16583,4431324,2015-01-31,2015,Jan,31
+Charlotte,Mecklenburg County,Charlotte-Concord-Gastonia,69823,28277,Zip,56,NC,2015-01-31,286294.0,32165,5175194,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84627,60625,Zip,57,IL,2015-01-31,348214.0,183606,2210290,2015-01-31,2015,Jan,31
+Lawrenceville,Gwinnett County,Atlanta-Sandy Springs-Roswell,70828,30043,Zip,58,GA,2015-01-31,188455.0,232051,1287710,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62040,11230,Zip,59,NY,2015-01-31,374811.0,31862,5221801,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62023,11212,Zip,60,NY,2015-01-31,323665.0,117141,5910883,2015-01-31,2015,Jan,31
+Houston,Harris County,Houston-The Woodlands-Sugar Land,91685,77036,Zip,61,TX,2015-01-31,100624.0,138938,1582705,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61803,10463,Zip,62,NY,2015-01-31,222726.0,12311,2366995,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84630,60629,Zip,63,IL,2015-01-31,147600.0,127906,1607339,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62020,11209,Zip,64,NY,2015-01-31,384849.0,207948,3192182,2015-01-31,2015,Jan,31
+Duluth,Gwinnett County,Atlanta-Sandy Springs-Roswell,70874,30096,Zip,65,GA,2015-01-31,177571.0,141199,2111133,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62032,11221,Zip,66,NY,2015-01-31,793603.0,235446,2191251,2015-01-31,2015,Jan,31
+Hoboken,Hudson County,New York-Newark-Jersey City,60545,7030,Zip,67,NJ,2015-01-31,603369.0,106396,4098555,2015-01-31,2015,Jan,31
+Redmond,King County,Seattle-Tacoma-Bellevue,99534,98052,Zip,68,WA,2015-01-31,554772.0,66803,4029256,2015-01-31,2015,Jan,31
+Suwanee,Gwinnett County,Atlanta-Sandy Springs-Roswell,70810,30024,Zip,69,GA,2015-01-31,299660.0,237678,2535810,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84612,60610,Zip,70,IL,2015-01-31,411275.0,111895,879532,2015-01-31,2015,Jan,31
+Austin,Travis County,Austin-Round Rock,92617,78704,Zip,71,TX,2015-01-31,502729.0,35084,3737225,2015-01-31,2015,Jan,31
+Houston,Harris County,Houston-The Woodlands-Sugar Land,91726,77077,Zip,72,TX,2015-01-31,295187.0,161662,2577426,2015-01-31,2015,Jan,31
+Phoenix,Maricopa County,Phoenix-Mesa-Scottsdale,94748,85032,Zip,73,AZ,2015-01-31,196850.0,154940,3752302,2015-01-31,2015,Jan,31
+Spring,Harris County,Houston-The Woodlands-Sugar Land,91889,77379,Zip,74,TX,2015-01-31,233842.0,13536,5111908,2015-01-31,2015,Jan,31
+Dallas,Dallas County,Dallas-Fort Worth-Arlington,90823,75287,Zip,75,TX,2015-01-31,260652.0,187432,812787,2015-01-31,2015,Jan,31
+New York,New York County,New York-Newark-Jersey City,61638,10024,Zip,76,NY,2015-01-31,1169355.0,59636,5513889,2015-01-31,2015,Jan,31
+San Marcos,Hays County,Austin-Round Rock,92598,78666,Zip,77,TX,2015-01-31,179506.0,170834,3898726,2015-01-31,2015,Jan,31
+Parkville,Baltimore County,Baltimore-Columbia-Towson,66843,21234,Zip,78,MD,2015-01-31,197752.0,110256,2209320,2015-01-31,2015,Jan,31
+Sunny Isles Beach,Miami-Dade County,Miami-Fort Lauderdale-West Palm Beach,72463,33160,Zip,79,FL,2015-01-31,387536.0,183378,145002,2015-01-31,2015,Jan,31
+Virginia Beach,Virginia Beach City,Virginia Beach-Norfolk-Newport News,67732,23464,Zip,80,VA,2015-01-31,245309.0,101155,1294930,2015-01-31,2015,Jan,31
+Winter Garden,Orange County,Orlando-Kissimmee-Sanford,73221,34787,Zip,81,FL,2015-01-31,266982.0,211209,5433806,2015-01-31,2015,Jan,31
+Brownsville,Cameron County,Brownsville-Harlingen,92481,78521,Zip,82,TX,2015-01-31,82203.0,180589,3690387,2015-01-31,2015,Jan,31
+Lakewood Township,Ocean County,New York-Newark-Jersey City,61148,8701,Zip,83,NJ,2015-01-31,295450.0,98061,4198553,2015-01-31,2015,Jan,31
+Dallas,Dallas County,Dallas-Fort Worth-Arlington,90795,75243,Zip,84,TX,2015-01-31,133266.0,177112,2898795,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62025,11214,Zip,85,NY,2015-01-31,364195.0,222503,1303182,2015-01-31,2015,Jan,31
+Concord,Cabarrus County,Charlotte-Concord-Gastonia,69672,28027,Zip,86,NC,2015-01-31,185386.0,23756,1910990,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62018,11207,Zip,87,NY,2015-01-31,347019.0,78736,5286535,2015-01-31,2015,Jan,31
+Alameda,Alameda County,San Francisco-Oakland-Hayward,97711,94501,Zip,88,CA,2015-01-31,746025.0,112829,2794174,2015-01-31,2015,Jan,31
+Quincy,Norfolk County,Boston-Cambridge-Newton,58669,2169,Zip,89,MA,2015-01-31,347306.0,33436,565770,2015-01-31,2015,Jan,31
+Royal Palm Beach,Palm Beach County,Miami-Fort Lauderdale-West Palm Beach,72578,33411,Zip,90,FL,2015-01-31,231990.0,15061,2155277,2015-01-31,2015,Jan,31
+New York,Kings County,New York-Newark-Jersey City,62039,11229,Zip,91,NY,2015-01-31,405457.0,131447,232957,2015-01-31,2015,Jan,31
+Chicago,Cook County,Chicago-Naperville-Elgin,84621,60619,Zip,92,IL,2015-01-31,116481.0,134302,1548530,2015-01-31,2015,Jan,31
+Austin,Travis County,Austin-Round Rock,92654,78745,Zip,93,TX,2015-01-31,255078.0,134477,503825,2015-01-31,2015,Jan,31
+San Francisco,San Francisco County,San Francisco-Oakland-Hayward,97565,94110,Zip,94,CA,2015-01-31,1292123.0,207698,2944132,2015-01-31,2015,Jan,31
+Virginia Beach,Virginia Beach City,Virginia Beach-Norfolk-Newport News,67730,23462,Zip,95,VA,2015-01-31,193300.0,152985,5174377,2015-01-31,2015,Jan,31
+Miramar,Broward County,Miami-Fort Lauderdale-West Palm Beach,72363,33025,Zip,96,FL,2015-01-31,186874.0,103418,3775096,2015-01-31,2015,Jan,31
+New York,Bronx County,New York-Newark-Jersey City,61798,10458,Zip,97,NY,2015-01-31,135170.0,110798,2362716,2015-01-31,2015,Jan,31
+Lewisville,Denton County,Dallas-Fort Worth-Arlington,90665,75067,Zip,98,TX,2015-01-31,185589.0,78786,1542357,2015-01-31,2015,Jan,31
+Los Angeles,Los Angeles County,Los Angeles-Long Beach-Anaheim,96015,90034,Zip,99,CA,2015-01-31,900136.0,145077,361050,2015-01-31,2015,Jan,31
+Parker,Douglas County,Denver-Aurora-Lakewood,93263,80134,Zip,100,CO,2015-01-31,400955.0,97301,3144800,2015-01-31,2015,Jan,31
